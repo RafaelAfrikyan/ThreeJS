@@ -122,7 +122,7 @@ tick();
 // };
 // tick();
 
-// const clock = new THRfEE.Clock();
+// const clock = new THREE.Clock();
 // const animate = () => {
 //   const delta = clock.getDelta();
 //   meshes.forEach((item, index) => {

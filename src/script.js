@@ -6,7 +6,7 @@ const scene = new THREE.Scene();
 const canvas = document.querySelector(".canvas");
 
 const sizes = {
-  width: 2000,
+  width: 1600,
   height: 1000,
 };
 
